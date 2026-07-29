@@ -4,7 +4,7 @@ Technology, Data Analytics and Business Intelligence professional focused on tra
 
 Currently supporting nonprofit operations while building data driven applications with python, streamlit, Microsoft 365, and modern analytic tools
 
---
+---
 
 ## Core Skills
 
@@ -21,7 +21,13 @@ Currently supporting nonprofit operations while building data driven application
 - Process Automation
 - Technology Operations
 
-- --
+---
+
+## Featured Technologies
+
+Python • Streamlit • Pandas • Plotly • Microsoft 365 • SharePoint • Power BI • SQL • Azure
+
+---
 
 ## Featured Projects
 
@@ -103,12 +109,17 @@ Recent areas of exploration:
 - Forecasting & Budget Analytics
 - Data storytelling
 
-## Connect with me 
+## Let's Connect 
 - GitHub: https://github.com/sharvey16
 
-- ## GitHub Activity
+---
 
-![GitHub Stats](https://github-readapp/api?username=sharvey16&show_icons=true
-!ttps://github-readme-stats.vercel.app/api/top-langs/?username=sharvey16&layout=compact
+## GitHub Activity
 
-“Data becomes valuable when it helps people make better decisions.”
+![GitHub Stats](https://github-readme-stats.vercel.=sharvey16&show_icons=true&theme=default
+
+![Top Languages](https://ts.vercel.app/api/top-langs/?username=sharvey16&layout=compact&theme=default
+
+---
+
+"Data becomes valuable when it helps people make better decisions."
