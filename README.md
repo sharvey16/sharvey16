@@ -6,7 +6,7 @@ Currently supporting nonprofit operations while building data driven application
 
 --
 
-##Core Skills
+## Core Skills
 
 - Python
 - Streamlit
