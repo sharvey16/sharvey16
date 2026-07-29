@@ -2,7 +2,7 @@
 
 Technology, Data Analytics and Business Intelligence professional focused on transforming organizational data into actionable insights through dashboards, analytics, and reporting solutions.
 
-Currently building data driven applications with python, streamlit, Microsoft 365, and modern analytic tools
+Currently supporting nonprofit operations while building data driven applications with python, streamlit, Microsoft 365, and modern analytic tools
 
 --
 
