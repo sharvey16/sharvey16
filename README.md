@@ -36,7 +36,7 @@ Interactive fundraising analytics platform developed using Python and Streamlit.
 - Geographic donation insights
 - Interactive filtering and reporting
 
-**Technologies**
+### Technologies:
 Python • Streamlit • Pandas • Plotly
 
 ---
@@ -59,7 +59,7 @@ Enterprise asset management solution developed for internal technology operation
 - Asset age analysis and lifecycle reporting
 - Executive technology planning dashboard
 
-**Technologies**
+### Technologies:
 Python • Streamlit • Pandas • Microsoft 365
 
 ---
@@ -75,21 +75,20 @@ Security focused operational dashboard designed to improve visibility into Micro
 - Administrative analytics
 - Operational KPI Tracking
 
-**Technologies:**
+### Technologies:
 Python • Streamlit • Microsoft 365 • Data Visualization
 
 --- 
 
-## Current Focus
+## Currently Building
 
 I'm currently focused on expanding my portfolio through:
 
-- Data analytics applications
-- Business Intelligence Solutions
-- Technology Operations Reporting
-- Microsoft 365 Automation
-- Streamlit Application Development
-- Nonprofit Analytics & Reporting
+- Technology Lifecycle & Budget Planning Solutions
+- Business Intelligence Dashboards
+- Nonprofit Analytics
+- Microsoft 365 Reporting & Automation
+- Azure & SharePoint Integrations
 
 ---
 
@@ -106,5 +105,10 @@ Recent areas of exploration:
 
 ## Connect with me 
 - GitHub: https://github.com/sharvey16
+
+- ## GitHub Activity
+
+![GitHub Stats](https://github-readapp/api?username=sharvey16&show_icons=true
+!ttps://github-readme-stats.vercel.app/api/top-langs/?username=sharvey16&layout=compact
 
 “Data becomes valuable when it helps people make better decisions.”
